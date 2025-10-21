@@ -1,4 +1,4 @@
-# Toy Car System
+![Toy Car System](ComputerCode/CarPhoto.png)
 
 An interactive educational toy car that uses **digit recognition** to assess the **math ability of young children**.  
 This project forms part of my final-year **Mechatronic Engineering Skripsie** at Stellenbosch University.
