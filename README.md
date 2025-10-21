@@ -1,5 +1,8 @@
-![Toy Car System](ComputerCode/CarPhoto.png)
+<p align="center">
+  <img src="ComputerCode/CarPhoto.png" alt="Toy Car System" width="400"/>
+</p>
 
+# Toy Car System
 An interactive educational toy car that uses **digit recognition** to assess the **math ability of young children**.  
 This project forms part of my final-year **Mechatronic Engineering Skripsie** at Stellenbosch University.
 
