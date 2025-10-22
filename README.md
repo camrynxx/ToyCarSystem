@@ -1,10 +1,19 @@
 <p align="center">
-  <img src="ComputerCode/CarPhoto.png" alt="Toy Car System" width="400"/>
+  <img src="ComputerCode/CarPhoto.png" alt="Toy Car System" width="200"/>
 </p>
+
+![Blink](https://github.com/user-attachments/assets/a9a502ca-a341-44fd-9728-311ebfc2d0ee)
+![LeftRight](https://github.com/user-attachments/assets/b6e67a7f-943b-4e74-b97c-1c128f079064)
+![Wrong-x](https://github.com/user-attachments/assets/a0263805-2692-4a16-84e9-ec2f0646255d)
+![Wrong-Shake](https://github.com/user-attachments/assets/740aa25b-d23e-4a53-b793-258d24b72c72)
+![Right-star](https://github.com/user-attachments/assets/d548d23c-4350-4c92-b9f6-75a04950c15f)
+![Right-slotmachine](https://github.com/user-attachments/assets/5fc95818-7167-4a89-9181-a3b5facc5ae2)
 
 # Toy Car System
 An interactive educational toy car that uses **digit recognition** to assess the **math ability of young children**.  
 This project forms part of my final-year **Mechatronic Engineering Skripsie** at Stellenbosch University.
+
+PS: The above six gifs are the six reactions the car performs on the OLED - animated by me!
 
 ---
 
@@ -12,6 +21,9 @@ This project forms part of my final-year **Mechatronic Engineering Skripsie** at
 
 The Toy Car System combines **hardware** and **speech recognition software** to create an engaging learning experience for children.  
 When a child answers a spoken math question, the car responds with **lights, movement, the OLED display and sound** based on the correctness of the answer.
+
+---
+## Project Demonstration
 
 ---
 
