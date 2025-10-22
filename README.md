@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ComputerCode/CarPhoto.png" alt="Toy Car System" width="200"/>
+  <img src="ComputerCode/CarPhoto.png" alt="Toy Car System" width="250"/>
 </p>
 
 ![Blink](https://github.com/user-attachments/assets/a9a502ca-a341-44fd-9728-311ebfc2d0ee)
