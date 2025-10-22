@@ -25,6 +25,10 @@ When a child answers a spoken math question, the car responds with **lights, mov
 ---
 ## Project Demonstration
 
+
+https://github.com/user-attachments/assets/25eb206e-31ae-4bf9-9bd9-e5be2d422ba7
+
+
 ---
 
 ## File Description
